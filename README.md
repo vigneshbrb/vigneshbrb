@@ -3,6 +3,7 @@
 - 🌱 I’m currently working as AWS Cloud Engineer for developing cloud native applications to be run in Amazon Web Services.
 - 💞️ I’m looking to collaborate on any Open Source Projects that requires issues to be looked in
 - 📫 You can reach me through Twitter @vigneshbrb
+- I'm AWS Certified Solutions Architect Associate and Scrum.org certified Professional Scrum Master 1
 
 <!---
 vigneshbrb/vigneshbrb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
